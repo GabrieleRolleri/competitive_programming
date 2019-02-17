@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/waterslide/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/waterslide/cmake-build-debug/CMakeFiles/waterslide.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/waterslide/cmake-build-debug/CMakeFiles/edit_cache.dir

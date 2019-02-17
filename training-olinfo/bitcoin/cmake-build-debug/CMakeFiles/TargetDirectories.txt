@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/bitcoin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/bitcoin/cmake-build-debug/CMakeFiles/bitcoin.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/bitcoin/cmake-build-debug/CMakeFiles/edit_cache.dir

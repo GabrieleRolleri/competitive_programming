@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\increasingarray.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\increasingarray.dir/objects.a @CMakeFiles\increasingarray.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\increasingarray.dir/objects.a -Wl,--no-whole-archive  -o increasingarray.exe -Wl,--out-implib,libincreasingarray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\increasingarray.dir\linklibs.rsp

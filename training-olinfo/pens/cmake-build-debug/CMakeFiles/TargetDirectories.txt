@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/pens/cmake-build-debug/CMakeFiles/pens.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/pens/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/pens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

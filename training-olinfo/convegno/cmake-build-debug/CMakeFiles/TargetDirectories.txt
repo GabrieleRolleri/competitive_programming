@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/convegno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/convegno/cmake-build-debug/CMakeFiles/convegno.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/convegno/cmake-build-debug/CMakeFiles/rebuild_cache.dir

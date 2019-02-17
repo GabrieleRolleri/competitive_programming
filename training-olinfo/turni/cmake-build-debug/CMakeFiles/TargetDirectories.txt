@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/turni/cmake-build-debug/CMakeFiles/turni.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/turni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/turni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

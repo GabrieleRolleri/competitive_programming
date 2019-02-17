@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/prefisso/cmake-build-debug/CMakeFiles/prefisso.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/prefisso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/prefisso/cmake-build-debug/CMakeFiles/rebuild_cache.dir

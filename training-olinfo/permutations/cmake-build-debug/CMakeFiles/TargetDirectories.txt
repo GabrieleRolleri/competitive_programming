@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/permutations/cmake-build-debug/CMakeFiles/permutations.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

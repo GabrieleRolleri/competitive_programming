@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/negozi/cmake-build-debug/CMakeFiles/negozi.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/negozi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/negozi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

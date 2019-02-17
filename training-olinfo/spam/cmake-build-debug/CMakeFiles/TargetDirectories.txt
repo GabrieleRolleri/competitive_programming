@@ -1,0 +1,3 @@
+C:/Users/Gabriele/CLionProjects/Allenamento/spam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/spam/cmake-build-debug/CMakeFiles/spam.dir
+C:/Users/Gabriele/CLionProjects/Allenamento/spam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
