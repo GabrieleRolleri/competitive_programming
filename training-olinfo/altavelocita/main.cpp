@@ -46,8 +46,8 @@ int binaria(ll left, ll right, ll K){
         return binaria(left, piv-1, K);
     }
     return binaria(piv+1, right, K);
-}
 
+}
 int main(){
     ifstream in;
     in.open("input.txt");

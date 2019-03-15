@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\altavelocita.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\altavelocita.dir/objects.a @CMakeFiles\altavelocita.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\altavelocita.dir/objects.a -Wl,--no-whole-archive  -o altavelocita.exe -Wl,--out-implib,libaltavelocita.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\altavelocita.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/altavelocita.dir/main.cpp.o  -o altavelocita 

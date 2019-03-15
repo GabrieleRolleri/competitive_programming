@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/altavelocita.dir/main.cpp.obj"
+  "CMakeFiles/altavelocita.dir/main.cpp.o"
   "altavelocita.pdb"
-  "altavelocita.exe"
-  "altavelocita.exe.manifest"
-  "libaltavelocita.dll.a"
+  "altavelocita"
 )
 
 # Per-language clean rules from dependency scanning.
