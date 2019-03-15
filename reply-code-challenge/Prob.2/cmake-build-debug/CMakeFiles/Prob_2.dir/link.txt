@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prob_2.dir/main.cpp.o  -o Prob_2 
