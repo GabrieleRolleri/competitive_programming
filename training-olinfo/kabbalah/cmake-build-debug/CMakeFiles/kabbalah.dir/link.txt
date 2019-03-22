@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kabbalah.dir/main.cpp.o  -o kabbalah 
