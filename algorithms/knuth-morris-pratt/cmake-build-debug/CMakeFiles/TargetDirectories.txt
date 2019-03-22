@@ -1,0 +1,3 @@
+/home/gabriele/repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir
+/home/gabriele/repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles/edit_cache.dir

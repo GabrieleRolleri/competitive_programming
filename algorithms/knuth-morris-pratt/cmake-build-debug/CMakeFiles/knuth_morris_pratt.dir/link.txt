@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/knuth_morris_pratt.dir/main.cpp.o  -o knuth_morris_pratt 

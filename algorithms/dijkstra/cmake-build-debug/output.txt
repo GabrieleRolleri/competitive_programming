@@ -1,0 +1,9 @@
+Node 0 is at distance 0 through: 0
+Node 1 is at distance 3 through: 1-0
+Node 2 is at distance 4 through: 2-0
+Node 3 is at distance 7 through: 3-4-0
+Node 4 is at distance 5 through: 4-0
+Node 5 is at distance 17 through: 5-3-4-0
+Node 6 is at distance 7 through: 6-2-0
+Node 7 is at distance 12 through: 7-6-2-0
+Node 8 is at distance 9 through: 8-2-0
