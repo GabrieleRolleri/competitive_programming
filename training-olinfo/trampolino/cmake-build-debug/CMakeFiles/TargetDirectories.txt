@@ -1,0 +1,3 @@
+/home/gabriele/repos/competitive_programming/training-olinfo/trampolino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/repos/competitive_programming/training-olinfo/trampolino/cmake-build-debug/CMakeFiles/trampolino.dir
+/home/gabriele/repos/competitive_programming/training-olinfo/trampolino/cmake-build-debug/CMakeFiles/edit_cache.dir

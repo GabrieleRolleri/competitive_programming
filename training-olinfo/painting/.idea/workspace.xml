@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="kabbalah" targetName="kabbalah" />
+      <config projectName="painting" targetName="painting" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be18237b-98e5-4512-be8f-a34f01b50c0e" name="Default Changelist" comment="" />
+    <list default="true" id="32de49cd-4db9-4ab7-a0ea-298694904f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bicollatz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kabbalah/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kabbalah/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="101">
+              <caret line="15" column="23" lean-forward="true" selection-end-line="72" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -59,8 +63,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -68,7 +72,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="main.cpp" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +92,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="kabbalah" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kabbalah" TARGET_NAME="kabbalah" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kabbalah" RUN_TARGET_NAME="kabbalah">
+    <configuration name="painting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="painting" TARGET_NAME="painting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="painting" RUN_TARGET_NAME="painting">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -94,29 +103,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be18237b-98e5-4512-be8f-a34f01b50c0e" name="Default Changelist" comment="" />
-      <created>1552736489334</created>
+      <changelist id="32de49cd-4db9-4ab7-a0ea-298694904f50" name="Default Changelist" comment="" />
+      <created>1553261556179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552736489334</updated>
-      <workItem from="1552736490948" duration="1209000" />
-      <workItem from="1553241302384" duration="1744000" />
-      <workItem from="1553244586697" duration="2466000" />
-      <workItem from="1553249131698" duration="6731000" />
-      <workItem from="1553261466602" duration="67000" />
+      <updated>1553261556179</updated>
+      <workItem from="1553261561935" duration="1461000" />
+      <workItem from="1553266194694" duration="5225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12217000" />
+    <option name="totallyTimeSpent" value="6686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18409091" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
@@ -125,11 +132,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -145,8 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="101">
+          <caret line="15" column="23" lean-forward="true" selection-end-line="72" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/trampolino.dir/main.cpp.o  -o trampolino 
