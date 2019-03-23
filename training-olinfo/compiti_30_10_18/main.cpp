@@ -3,52 +3,61 @@
 
 using namespace std;
 
-struct cliente{
-    string nome;
-    string cognome;
-    int bolla;
-    cliente* next;
-};
 
-void aggiunta(cliente*);
-void pop(cliente*, int*);
-int size(cliente*);
-void pop_back(cliente*);
+int main()
+{
+    int R=5, C=8;
+    if(R%2){
 
+            for (int i = 0; i < R-1; ++i) {
+                cout<<"SOTTO"<<' ';
+            }
+            for (int i = 0; i < (C / 2 - 1); ++i) {
+                cout<<"DESTRA"<<' ';
+                for (int j = 0; j < R - 2; ++j) {
+                    cout<<"SOPRA"<<' ';
+                }
+                cout<<"DESTRA";
+                for (int j = 0; j < R - 2; ++j) {
+                    cout<<"SOTTO"<<' ';
+                }
+            }
+            cout<<"DESTRA"<<' ';
+            for (int i = 0; i < R-1; ++i) {
+                cout<<"SOPRA"<<' ';
+            }
+            for(int i=0; i<C-1; ++i){
+                cout<<"SINISTRA"<<' ';
 
-
-int main(){
-    auto sLista=new cliente;
-    sLista->next=nullptr;
-    int incasso;
-    aggiunta(sLista);
-    aggiunta(sLista);
-    pop(sLista, &incasso);
-    pop(sLista, &incasso);
-
-    cout<<"L'ufficio postale ha ricavato "<<incasso<<" euro\n";
-}
-
-void aggiunta(cliente* lista){
-    while(lista->next!=nullptr){
-        lista=lista->next;
+        }
     }
-    auto temp=new cliente;
-    lista->next=temp;
-    cout<<"Inserisci il nome del nuovo cliente: ";
-    cin>>temp->nome;
-    cout<<"Inserisci il cognome del nuovo cliente: ";
-    cin>>temp->cognome;
-    cout<<"Inserisci l'importo del bolletino del nuovo cliente: ";
-    cin>>temp->bolla;
-    temp->next=nullptr;
-}
+    else{
 
-void pop(cliente* lista, int* s){
-    auto sLista=lista;
-    lista=lista->next;
-    cout<<"Il cliente "<<lista->nome<<" "<<lista->cognome<<" ha pagato "<<lista->bolla<<"€\n";
-    *s+=lista->bolla;
-    sLista->next=lista->next;
-    delete lista;
+            for (int i = 0; i < C-1; ++i) {
+                cout<<"DESTRA"<<' ';
+            }
+            for (int i = 0; i < (R / 2 - 1); ++i) {
+                cout<<"SOTTO"<<' ';
+                for (int j = 0; j < C - 2; ++j) {
+                    cout<<"SINISTRA"<<' ';
+                }
+                cout<<"SOTTO"<<' ';
+                for (int j = 0; j < C - 2; ++j) {
+                    cout<<"DESTRA"<<' ';
+                }
+            }
+            cout<<"SOTTO"<<' ';
+            for (int i = 0; i < C-1; ++i) {
+                cout<<"SINISTRA"<<' ';
+            }
+            for(int i=0; i<R-1; ++i){
+                cout<<"SOPRA"<<' ';
+            }
+
+    }
+
+
+
+
+
 }

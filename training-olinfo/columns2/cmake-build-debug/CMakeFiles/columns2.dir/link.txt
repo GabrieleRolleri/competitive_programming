@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/columns2.dir/main.cpp.o  -o columns2 

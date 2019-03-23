@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/barrels.dir/main.cpp.obj"
+  "CMakeFiles/barrels.dir/main.cpp.o"
   "barrels.pdb"
-  "barrels.exe"
-  "barrels.exe.manifest"
-  "libbarrels.dll.a"
+  "barrels"
 )
 
 # Per-language clean rules from dependency scanning.

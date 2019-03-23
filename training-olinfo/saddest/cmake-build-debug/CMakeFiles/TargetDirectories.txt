@@ -1,3 +1,3 @@
-C:/Users/Gabriele/CLionProjects/Allenamento/saddest/cmake-build-debug/CMakeFiles/saddest.dir
-C:/Users/Gabriele/CLionProjects/Allenamento/saddest/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Gabriele/CLionProjects/Allenamento/saddest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/repos/competitive_programming/training-olinfo/saddest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/repos/competitive_programming/training-olinfo/saddest/cmake-build-debug/CMakeFiles/saddest.dir
+/home/gabriele/repos/competitive_programming/training-olinfo/saddest/cmake-build-debug/CMakeFiles/edit_cache.dir

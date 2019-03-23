@@ -34,18 +34,7 @@ int main() {
             S = t;
     }
 
-
-
-
-
-
-
-
     std::cout<<S;
-
-
-
-
 
     return 0;
 }

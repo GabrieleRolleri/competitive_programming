@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/compiti_30_10_18.dir/main.cpp.obj"
+  "CMakeFiles/compiti_30_10_18.dir/main.cpp.o"
   "compiti_30_10_18.pdb"
-  "compiti_30_10_18.exe"
-  "compiti_30_10_18.exe.manifest"
-  "libcompiti_30_10_18.dll.a"
+  "compiti_30_10_18"
 )
 
 # Per-language clean rules from dependency scanning.

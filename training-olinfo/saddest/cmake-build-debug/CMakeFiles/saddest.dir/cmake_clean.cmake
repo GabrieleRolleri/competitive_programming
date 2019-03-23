@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/saddest.dir/main.cpp.obj"
+  "CMakeFiles/saddest.dir/main.cpp.o"
   "saddest.pdb"
-  "saddest.exe"
-  "saddest.exe.manifest"
-  "libsaddest.dll.a"
+  "saddest"
 )
 
 # Per-language clean rules from dependency scanning.
