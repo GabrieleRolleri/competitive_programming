@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gara_candriai_3.dir/main.cpp.o  -o gara_candriai_3 
