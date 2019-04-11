@@ -12,49 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c296364-dabc-4605-a63e-c160a4acd44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gara-candriai/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../training-olinfo/password/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../training-olinfo/snake/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/compiti_30_10_18.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/compiti_30_10_18.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/cmake-build-debug/compiti_30_10_18.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/compiti_30_10_18/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/dijkstra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/dijkstra/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../training-olinfo/trampolino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/trampolino/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gara-candriai-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gara-candriai-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training-olinfo/chips/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../training-olinfo/chips/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +24,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -75,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -143,25 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1553353919267</updated>
       <workItem from="1553353921200" duration="2992000" />
+      <workItem from="1553414509731" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2992000" />
+    <option name="totallyTimeSpent" value="3003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
@@ -169,10 +122,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +144,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>

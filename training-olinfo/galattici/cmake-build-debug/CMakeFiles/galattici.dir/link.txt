@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/galattici.dir/main.cpp.o  -o galattici 

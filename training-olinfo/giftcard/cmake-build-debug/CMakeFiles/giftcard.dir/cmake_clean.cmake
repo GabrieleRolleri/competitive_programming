@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/giftcard.dir/main.cpp.obj"
+  "CMakeFiles/giftcard.dir/main.cpp.o"
   "giftcard.pdb"
-  "giftcard.exe"
-  "giftcard.exe.manifest"
-  "libgiftcard.dll.a"
+  "giftcard"
 )
 
 # Per-language clean rules from dependency scanning.
