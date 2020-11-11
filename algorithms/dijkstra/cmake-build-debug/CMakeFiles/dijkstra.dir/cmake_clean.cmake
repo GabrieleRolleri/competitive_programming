@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/dijkstra.dir/main.cpp.o"
-  "dijkstra.pdb"
   "dijkstra"
+  "dijkstra.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

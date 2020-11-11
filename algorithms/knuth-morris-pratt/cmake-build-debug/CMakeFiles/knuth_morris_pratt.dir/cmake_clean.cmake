@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/knuth_morris_pratt.dir/main.cpp.o"
-  "knuth_morris_pratt.pdb"
   "knuth_morris_pratt"
+  "knuth_morris_pratt.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
