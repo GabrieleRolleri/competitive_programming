@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sparse_table.dir/main.cpp.o  -o sparse_table 

@@ -5,13 +5,147 @@
       <config projectName="knuth_morris_pratt" targetName="knuth_morris_pratt" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfeab2fc-db66-4fad-bd70-f2e3007a0a63" name="Default Changelist" comment="" />
+    <list default="true" id="dfeab2fc-db66-4fad-bd70-f2e3007a0a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dials_algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dials_algorithm/.idea/dials_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dials_algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dials_algorithm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dials_algorithm/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/knuth_morris_pratt.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/knuth_morris_pratt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/knuth_morris_pratt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/knuth_morris_pratt.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/knuth_morris_pratt.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/SegmentTree.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/SegmentTree.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-structures/SegmentTree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/energia.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/energia.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/energia/cmake-build-debug/energia.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/CMakeFiles/segment_tree.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/segment_tree.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../training-olinfo/segment_tree/cmake-build-debug/segment_tree.cbp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +167,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../infoA/lab1" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,14 +180,19 @@
     <property name="settings.editor.selected.configurable" value="xpath.settings" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="knuth_morris_pratt" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="knuth_morris_pratt" TARGET_NAME="knuth_morris_pratt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="knuth_morris_pratt" RUN_TARGET_NAME="knuth_morris_pratt">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="knuth_morris_pratt" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="knuth_morris_pratt" TARGET_NAME="knuth_morris_pratt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="knuth_morris_pratt" RUN_TARGET_NAME="knuth_morris_pratt">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -72,52 +212,22 @@
       <workItem from="1605091683832" duration="66000" />
       <workItem from="1605091758985" duration="3091000" />
       <workItem from="1605103635584" duration="3638000" />
+      <workItem from="1607181014476" duration="3256000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="648" y="369" width="432" height="487" key="FileChooserDialogImpl" timestamp="1605107927044">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state x="648" y="369" width="432" height="487" key="FileChooserDialogImpl/0.28.1920.1085@0.28.1920.1085" timestamp="1605107927044" />
-    <state width="1346" height="259" key="GridCell.Tab.0.bottom" timestamp="1605107927088">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="1346" height="259" key="GridCell.Tab.0.bottom/0.28.1920.1085@0.28.1920.1085" timestamp="1605107927088" />
-    <state width="1346" height="259" key="GridCell.Tab.0.center" timestamp="1605107927088">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="1346" height="259" key="GridCell.Tab.0.center/0.28.1920.1085@0.28.1920.1085" timestamp="1605107927088" />
-    <state width="1346" height="259" key="GridCell.Tab.0.left" timestamp="1605107927088">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="1346" height="259" key="GridCell.Tab.0.left/0.28.1920.1085@0.28.1920.1085" timestamp="1605107927088" />
-    <state width="1346" height="259" key="GridCell.Tab.0.right" timestamp="1605107927088">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="1346" height="259" key="GridCell.Tab.0.right/0.28.1920.1085@0.28.1920.1085" timestamp="1605107927088" />
-    <state width="906" height="354" key="GridCell.Tab.1.bottom" timestamp="1605103280950">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="906" height="354" key="GridCell.Tab.1.bottom/0.28.1920.1085@0.28.1920.1085" timestamp="1605103280950" />
-    <state width="906" height="354" key="GridCell.Tab.1.center" timestamp="1605103280949">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="906" height="354" key="GridCell.Tab.1.center/0.28.1920.1085@0.28.1920.1085" timestamp="1605103280949" />
-    <state width="906" height="354" key="GridCell.Tab.1.left" timestamp="1605103280949">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="906" height="354" key="GridCell.Tab.1.left/0.28.1920.1085@0.28.1920.1085" timestamp="1605103280949" />
-    <state width="906" height="354" key="GridCell.Tab.1.right" timestamp="1605103280950">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state width="906" height="354" key="GridCell.Tab.1.right/0.28.1920.1085@0.28.1920.1085" timestamp="1605103280950" />
-    <state x="1103" y="268" width="672" height="678" key="search.everywhere.popup" timestamp="1605093431265">
-      <screen x="0" y="28" width="1920" height="1085" />
-    </state>
-    <state x="1103" y="268" width="672" height="678" key="search.everywhere.popup/0.28.1920.1085@0.28.1920.1085" timestamp="1605093431265" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

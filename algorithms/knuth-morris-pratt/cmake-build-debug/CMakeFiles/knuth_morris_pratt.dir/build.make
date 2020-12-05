@@ -54,10 +54,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/129/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/137/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/129/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/137/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -77,27 +77,27 @@ include CMakeFiles/knuth_morris_pratt.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/knuth_morris_pratt.dir/flags.make
 
-CMakeFiles/knuth_morris_pratt.dir/main.cpp.o: CMakeFiles/knuth_morris_pratt.dir/flags.make
-CMakeFiles/knuth_morris_pratt.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/knuth_morris_pratt.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/knuth_morris_pratt.dir/main.cpp.o -c /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/main.cpp
+CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o: CMakeFiles/knuth_morris_pratt.dir/flags.make
+CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o: ../practice2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o -c /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/practice2.cpp
 
-CMakeFiles/knuth_morris_pratt.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/knuth_morris_pratt.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/main.cpp > CMakeFiles/knuth_morris_pratt.dir/main.cpp.i
+CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/practice2.cpp > CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.i
 
-CMakeFiles/knuth_morris_pratt.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/knuth_morris_pratt.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/main.cpp -o CMakeFiles/knuth_morris_pratt.dir/main.cpp.s
+CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/practice2.cpp -o CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.s
 
 # Object files for target knuth_morris_pratt
 knuth_morris_pratt_OBJECTS = \
-"CMakeFiles/knuth_morris_pratt.dir/main.cpp.o"
+"CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o"
 
 # External object files for target knuth_morris_pratt
 knuth_morris_pratt_EXTERNAL_OBJECTS =
 
-knuth_morris_pratt: CMakeFiles/knuth_morris_pratt.dir/main.cpp.o
+knuth_morris_pratt: CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o
 knuth_morris_pratt: CMakeFiles/knuth_morris_pratt.dir/build.make
 knuth_morris_pratt: CMakeFiles/knuth_morris_pratt.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable knuth_morris_pratt"

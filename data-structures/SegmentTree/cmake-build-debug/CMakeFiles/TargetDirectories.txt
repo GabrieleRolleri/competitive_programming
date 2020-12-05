@@ -1,3 +1,3 @@
-C:/Users/Gabriele/CLionProjects/DataStructures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir
-C:/Users/Gabriele/CLionProjects/DataStructures/SegmentTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Gabriele/CLionProjects/DataStructures/SegmentTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/Repos/competitive_programming/data-structures/SegmentTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/Repos/competitive_programming/data-structures/SegmentTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gabriele/Repos/competitive_programming/data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir

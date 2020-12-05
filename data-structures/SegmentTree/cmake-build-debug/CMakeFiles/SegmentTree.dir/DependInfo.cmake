@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Gabriele/CLionProjects/DataStructures/SegmentTree/main.cpp" "C:/Users/Gabriele/CLionProjects/DataStructures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/main.cpp.obj"
+  "/home/gabriele/Repos/competitive_programming/data-structures/SegmentTree/main.cpp" "/home/gabriele/Repos/competitive_programming/data-structures/SegmentTree/cmake-build-debug/CMakeFiles/SegmentTree.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

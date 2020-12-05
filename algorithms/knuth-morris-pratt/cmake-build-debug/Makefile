@@ -59,10 +59,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/129/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/137/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/129/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/137/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -79,7 +79,7 @@ CMAKE_BINARY_DIR = /home/gabriele/Repos/competitive_programming/algorithms/knuth
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/129/bin/cmake/linux/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/137/bin/cmake/linux/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -90,7 +90,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/129/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/137/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -143,32 +143,32 @@ knuth_morris_pratt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/build
 .PHONY : knuth_morris_pratt/fast
 
-main.o: main.cpp.o
+practice2.o: practice2.cpp.o
 
-.PHONY : main.o
+.PHONY : practice2.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/main.cpp.o
-.PHONY : main.cpp.o
+practice2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o
+.PHONY : practice2.cpp.o
 
-main.i: main.cpp.i
+practice2.i: practice2.cpp.i
 
-.PHONY : main.i
+.PHONY : practice2.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/main.cpp.i
-.PHONY : main.cpp.i
+practice2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.i
+.PHONY : practice2.cpp.i
 
-main.s: main.cpp.s
+practice2.s: practice2.cpp.s
 
-.PHONY : main.s
+.PHONY : practice2.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/main.cpp.s
-.PHONY : main.cpp.s
+practice2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/knuth_morris_pratt.dir/build.make CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.s
+.PHONY : practice2.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... knuth_morris_pratt"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... practice2.o"
+	@echo "... practice2.i"
+	@echo "... practice2.s"
 .PHONY : help
 
 

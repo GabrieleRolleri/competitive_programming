@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/knuth_morris_pratt.dir/main.cpp.o"
+  "CMakeFiles/knuth_morris_pratt.dir/practice2.cpp.o"
   "knuth_morris_pratt"
   "knuth_morris_pratt.pdb"
 )

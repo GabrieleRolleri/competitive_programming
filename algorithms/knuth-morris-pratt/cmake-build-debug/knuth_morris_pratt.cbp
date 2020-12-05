@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/main.cpp">
+		<Unit filename="/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/practice2.cpp">
 			<Option target="knuth_morris_pratt"/>
 		</Unit>
 		<Unit filename="/home/gabriele/Repos/competitive_programming/algorithms/knuth-morris-pratt/CMakeLists.txt">

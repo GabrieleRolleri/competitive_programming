@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/energia.dir/main.cpp.obj"
+  "CMakeFiles/energia.dir/main.cpp.o"
+  "energia"
   "energia.pdb"
-  "energia.exe"
-  "energia.exe.manifest"
-  "libenergia.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
